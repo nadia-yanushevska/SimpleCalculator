@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="textView">Result</string>
+    <string name="checkbox">Simple Calculator</string>
+    <string name="b1">C</string>
+    <string name="b2">B</string>
+    <string name="b3">%</string>
+    <string name="b4">/</string>
+    <string name="b5">1</string>
+    <string name="b6">2</string>
+    <string name="b7">3</string>
+    <string name="b8">*</string>
+    <string name="b9">4</string>
+    <string name="b10">5</string>
+    <string name="b11">6</string>
+    <string name="b12">+</string>
+    <string name="b13">7</string>
+    <string name="b14">8</string>
+    <string name="b15">9</string>
+    <string name="b16">-</string>
+    <string name="b17">.</string>
+    <string name="b18">0</string>
+    <string name="b19">=</string>
+    <string name="b20">MC</string>
+    <string name="b21">MR</string>
+    <string name="b22">M+</string>
+    <string name="b23">M-</string>
+    <string name="b24">+/-</string>
+</resources>
